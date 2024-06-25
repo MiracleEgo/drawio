@@ -1,9 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T10:03:57.131Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="24.6.2" etag="N1y7FYbOnXnGibbhiAQ5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T10:10:03.407Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bjdz7gy1RZ6ssGD74d4U" version="24.6.2" type="github">
   <diagram name="第 1 页" id="yPfUAUeXSrQnQ1OBQEqH">
-    <mxGraphModel>
+    <mxGraphModel dx="1482" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object label="机构A" id="vHTpHwCi1XQWNLg5JPhF-3">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="120" y="200" width="30" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="vHTpHwCi1XQWNLg5JPhF-5" value="机构B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vHTpHwCi1XQWNLg5JPhF-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="750" as="sourcePoint" />
+            <mxPoint x="350" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
